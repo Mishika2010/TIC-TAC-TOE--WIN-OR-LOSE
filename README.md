@@ -1,1 +1,1 @@
-# TIC-TAC-TOE--WIN-OR-LOSE
+# tic-tac-toe-python
